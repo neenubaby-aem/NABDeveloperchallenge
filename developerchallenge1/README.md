@@ -1,3 +1,11 @@
+# Solution
+
+Created a maven project and used java for backend development and display.
+
+# How to run the project
+
+Download the code into eclipse as maven project and Right Click on main file CurrencyConverter.java and run as-> java application will give you the result.
+
 # Introduction
 This test contains challenges for both frontend and backend speciality.
 You may choose to focus on whichever areas best demonstrate your expertise and experience.
@@ -80,10 +88,3 @@ If you are successful in obtaining a 1st round interview, please come prepared t
 # Important Note
 This is purely a skills test as part of an interview process. Any code written will be owned by the submitting individual and not used in full or in part by the receiving company in any way, now or in the future.
 
-#Solution
-
-I have done it as maven java project and used java for backend development and display.
-
-# How to run the project
-
-Download the code into eclipse as maven project and Right Click on main file CurrencyConverter.java and run as-> java application will give you the result.
